@@ -138,7 +138,7 @@ function App() {
           <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
             <div className="backdrop-blur-sm bg-white/10 rounded-2xl p-6 border border-purple-500/20 hover:border-purple-500/40 transition-all duration-300 hover:scale-105">
               <img 
-                src="/public/WhatsApp Image 2025-09-02 at 23.21.11.jpeg" 
+                src="/WhatsApp Image 2025-09-02 at 23.21.11.jpeg" 
                 alt="NomadView TV Mode" 
                 className="w-full h-48 object-cover rounded-xl mb-4"
               />
@@ -147,7 +147,7 @@ function App() {
             </div>
             <div className="backdrop-blur-sm bg-white/10 rounded-2xl p-6 border border-cyan-500/20 hover:border-cyan-500/40 transition-all duration-300 hover:scale-105">
               <img 
-                src="/public/WhatsApp Image 2025-09-02 at 23.21.11 (1).jpeg" 
+                src="/WhatsApp Image 2025-09-02 at 23.21.11 (1).jpeg" 
                 alt="NomadView Tablet Mode" 
                 className="w-full h-48 object-cover rounded-xl mb-4"
               />
@@ -156,7 +156,7 @@ function App() {
             </div>
             <div className="backdrop-blur-sm bg-white/10 rounded-2xl p-6 border border-purple-500/20 hover:border-purple-500/40 transition-all duration-300 hover:scale-105">
               <img 
-                src="/public/WhatsApp Image 2025-09-02 at 23.21.11 (2).jpeg" 
+                src="/WhatsApp Image 2025-09-02 at 23.21.11 (2).jpeg" 
                 alt="NomadView Portabilidade" 
                 className="w-full h-48 object-cover rounded-xl mb-4"
               />
