@@ -397,7 +397,7 @@ function App() {
 
             <div className="bg-gradient-to-r from-purple-600 to-cyan-600 p-1 rounded-2xl inline-block">
               <a 
-                href="https://seguro.nomadview.shop/checkout/Z-08XS309AAB25"
+                href="https://seguro.nomadview.shop/checkout/Z-08KBN099IW25"
                 target="_blank"
                 rel="noopener noreferrer"
                 id="final-cta"
